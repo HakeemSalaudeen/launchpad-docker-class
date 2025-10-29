@@ -1,0 +1,101 @@
+id,fruit,berry_renamed
+1,Apple,False
+2,Orange,False
+3,Banana,False
+4,Grapes,False
+5,Strawberry,True
+6,Blueberry,True
+7,Raspberry,True
+8,Blackberry,True
+9,Pineapple,False
+10,Watermelon,False
+11,Mango,False
+12,Kiwi,False
+13,Papaya,False
+14,Pomegranate,False
+15,Pear,False
+16,Peach,False
+17,Plum,False
+18,Cherry,True
+19,Lemon,False
+20,Lime,False
+21,Avocado,False
+22,Melon,False
+23,Cantaloupe,False
+24,Honeydew Melon,False
+25,Cranberry,True
+26,Coconut,False
+27,Passionfruit,False
+28,Fig,False
+29,Kiwifruit,False
+30,Guava,False
+31,Pitaya,False
+32,Dragonfruit,False
+33,Gooseberry,True
+34,Elderberry,True
+35,Apricot,False
+36,Jackfruit,False
+37,Quince,False
+38,Persimmon,False
+39,Nectarine,False
+40,Starfruit,False
+41,Mangosteen,False
+42,Pawpaw,False
+43,Loquat,False
+44,Feijoa,False
+45,Redcurrant,True
+46,Blackcurrant,True
+47,Goji Berry,True
+48,Boysenberry,True
+49,Tayberry,True
+50,Loganberry,True
+51,Durian,False
+52,Rambutan,False
+53,Lychee,False
+54,Kumquat,False
+55,Morus,False
+56,Soursop,False
+57,Cherimoya,False
+58,Carambola,False
+59,Mulberry,True
+60,Jujube,False
+61,Sapote,False
+62,Physalis,False
+63,Barberry,True
+64,Plantain,False
+65,Tamarillo,False
+66,Rowanberry,True
+67,Huckleberry,True
+68,Lingonberry,True
+69,Pitanga,False
+70,Açaí Berry,True
+71,Noni,False
+72,Guanabana,False
+73,Salmonberry,True
+74,Saskatoon Berry,True
+75,Bilberry,True
+76,Currant,True
+77,Cloudberry,True
+78,Kiwanoberry,True
+79,Cranberry,True
+80,Feijoa,False
+81,Pepino,False
+82,Gac,False
+83,Tamarind,False
+84,Sweet Granadilla,False
+85,African Cucumber,False
+86,Ackee,False
+87,Pomelo,False
+88,Tangerine,False
+89,Pitahaya,False
+90,White Mulberry,True
+91,Rose Hip,True
+92,Longan,False
+93,Raisin,False
+94,Damson,False
+95,Apricot,False
+96,Breadfruit,False
+97,Cucumber,False
+98,Java Apple,False
+99,Sapodilla,False
+100,Carissa,False
